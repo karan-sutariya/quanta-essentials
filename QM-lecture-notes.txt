@@ -4,3 +4,5 @@ Five GIT commands that I have learned are as follows:
 (c). git add
 (d). git commit -m "type a message to name the changes"
 (e).git remote -v
+
+the lessons that I learnt are as above.....
